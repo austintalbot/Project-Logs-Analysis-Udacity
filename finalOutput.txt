@@ -1,0 +1,27 @@
++------------------------------------+--------+
+| Title                              | views  |
++------------------------------------+--------+
+| Candidate is jerk, alleges rival   | 338647 |
+| Bears love berries, alleges bear   | 253801 |
+| Bad things gone, say good people   | 170098 |
+| Goats eat Google's lawn            | 84906  |
+| Trouble for troubled troublemakers | 84810  |
+| Balloon goons doomed               | 84557  |
+| There are a lot of bears           | 84504  |
+| Media obsessed with bears          | 84383  |
++------------------------------------+--------+
+
++------------------------+-------------+
+| Author                 | Total Views |
++------------------------+-------------+
+| Ursula La Multa        |    507594   |
+| Rudolf von Treppenwitz |    423457   |
+| Anonymous Contributor  |    170098   |
+| Markoff Chaney         |    84557    |
++------------------------+-------------+
+
++------------+--------+----------+------------------+
+|    date    | Errors | requests |  percent Error   |
++------------+--------+----------+------------------+
+| 2016-07-17 |  1270  |  55652   | 2.28203838136994 |
++------------+--------+----------+------------------+
